@@ -14,8 +14,9 @@ function App() {
           );
         }}
       >
-        <p id="para">{text}</p>
+       
       </button>
+      <p id="para">{text}</p>
     </div>
   );
 }
